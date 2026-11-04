@@ -1,0 +1,13 @@
+{
+  "name": "feu-de-camp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Petite appli de démo pour Coolify (La Veillée Tech #2)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22"
+  }
+}
